@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 My name is Aarush Popli and I'm a developer from India.<br>✨ Creating bugs since 2019<br>📚 I'm currently learning ASP .NET MVC<br>👨‍💻 I am eager to learn new tools related to coding and designing. I have worked with various languages and tools to create projects related to automation, web development and AI
+👉 This is a new account as I lost access to my original account (link for original account: https://github.com/Aarush-Popli-zz).<br>👋 My name is Aarush Popli and I'm a developer from India.<br>✨ Creating bugs since 2019<br>📚 I'm currently learning ASP .NET MVC<br>👨‍💻 I am eager to learn new tools related to coding and designing. I have worked with various languages and tools to create projects related to automation, web development and AI
 
 
 ## 🌐 Socials:
